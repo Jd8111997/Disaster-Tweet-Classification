@@ -1,7 +1,7 @@
 # Disaster-Tweet-Classification
 In this project, I had done binary classification on tweets into two following categories:
-1) disaster Tweets
-2) non-disaster Tweets
+1) disaster tweets
+2) non-disaster tweets
 
 You can download the dataset from here : https://www.kaggle.com/c/nlp-getting-started/data  
 I have used Distill-bert model to get a word embeddings of the sentence tweets.  
