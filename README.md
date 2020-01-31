@@ -3,7 +3,7 @@ In this project, I had done binary classification on Tweets into two following c
 1) Disaster Tweets
 2) Non-Disaster Tweets
 
-You can download the dataset from here : https://www.kaggle.com/c/nlp-getting-started/data
+You can download the dataset from here : https://www.kaggle.com/c/nlp-getting-started/data  
 I have use Distill-bert model to get a word embeddings of the sentence tweets.
 For that I have used huggingface's transformer module, you can check here : https://huggingface.co/transformers/v2.0.0/model_doc/distilbert.html
 In Distill_bert module, I have get the word embeddings of training and test dataset and store them in file features_distill.npy and features_test.npy. 
